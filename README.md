@@ -18,67 +18,40 @@ Before the war he had hardly published a line. He spent his summers in the compa
 
 ### Conscripts
 
-"Fall in, that awkward squad, and strike no more
-
-Attractive attitudes! Dress by the right!
-
-The luminous rich colours that you wore
-
-Have changed to hueless khaki in the night.
-
-Magic? What's magic got to do with you?
-
+"Fall in, that awkward squad, and strike no more  
+Attractive attitudes! Dress by the right!  
+The luminous rich colours that you wore  
+Have changed to hueless khaki in the night.  
+Magic? What's magic got to do with you?  
 There's no such thing! Blood's red and skies are blue."
 
-They gasped and sweated, marching up and down.
-
-I drilled them till they cursed my raucous shout.
-
-Love chucked his lute away and dropped his crown.
-
-Rhyme got sore heels and wanted to fall out.
-
-"Left, right! Press on your butts!" They looked at me
-
+They gasped and sweated, marching up and down.  
+I drilled them till they cursed my raucous shout.  
+Love chucked his lute away and dropped his crown.  
+Rhyme got sore heels and wanted to fall out.  
+"Left, right! Press on your butts!" They looked at me  
 Reproachful ; how I longed to set them free !
 
-I gave them lectures on Defence, Attack ;
-
-They fidgeted and shuffled, yawned and sighed,
-
-And boggled at my questions. Joy was slack,
-
-And Wisdom gnawed his fingers, gloomy-eyed.
-
-Young Fancy — how I loved him all the while —
-
+I gave them lectures on Defence, Attack ;  
+They fidgeted and shuffled, yawned and sighed,  
+And boggled at my questions. Joy was slack,  
+And Wisdom gnawed his fingers, gloomy-eyed.  
+Young Fancy — how I loved him all the while —  
 Stared at his note-book with a rueful smile.
 
-Their training done, I shipped them all to France.
-
-Where most of those I'd loved too well got killed.
-
-Rapture and pale Enchantment and Romance,
-
-And many a sickly, slender lord who'd filled
-
-My soul long since with litanies of sin.
-
+Their training done, I shipped them all to France.  
+Where most of those I'd loved too well got killed.  
+Rapture and pale Enchantment and Romance,  
+And many a sickly, slender lord who'd filled  
+My soul long since with litanies of sin.  
 Went home, because they couldn't stand the din.
 
-But the kind, common ones that I despised,
-
-\(Hardly a man of them I'd count as friend\),
-
-What stubborn-hearted virtues they disguised!
-
-They stood and played the hero to the end,
-
-Won gold and silver medals bright with bars,
-
+But the kind, common ones that I despised,  
+\(Hardly a man of them I'd count as friend\),  
+What stubborn-hearted virtues they disguised!  
+They stood and played the hero to the end,  
+Won gold and silver medals bright with bars,  
 And marched resplendent home with crowns and stars.
-
-
 
 This book \(in consequence almost wholly of these bitter poems\) enjoyed a remarkable success with the soldiers fighting in France. One met it everywhere. "Hello, you know Siegfried Sassoon then, do you? Well, tell him from me that the more he lays it on thick to those who don't realize the war the better. That's the stuff we want. We're fed up with the old men's death-or-glory stunt." In 1918 appeared 'Countermans' Attack': here there is hardly a trace of the 'paradise' feeling. You can't even think of paradise when you're in hell. For Sassoon was now well along the way of thorns. How many lives had he not seen spilled apparently to no purpose? Did not the fact of war arch him in like a dirty blood-red sky? He breaks out, almost like a mad man, into imprecations, into vehement tirades, into sarcasms, ironies, the hellish laughters that arise from a heart that is not broken once for all but that is newly broken every day while the Monster that devours the lives of the young continues its ravages. Take, for instance, the magnificent 'To Any Dead Officer', written just before America entered the war. Many reading this poem would think Great Britain was going to cease fighting. But nothing of the sort. One must always remember that bitter as these imprecations are against those who mismanaged certain episodes in the war, the ultimate foe is not they but the German Junkers who planned this war for forty years, who have given the lovely earth over to hideous defilement and the youths of all nations to carnage...
 
