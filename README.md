@@ -6,25 +6,25 @@
 
 # 
 
+# 
+
 # Counter-Attack
 
 ### and other poems
 
 By Siegfried Sassoon
 
+# 
 
+# 
 
+# 
 
+# 
 
+# 
 
-
-
-
-
-
-
-
-
+# 
 
 # To Robert Ross
 
@@ -41,6 +41,10 @@ un seul; la méchanceté jusqu'au sadisme,
 l'égoisme jusqu'à la férocité, le besoin de jouir jusqu'à la folie.
 
 HENRI BARBUSSE. \(Le Feu.\)
+
+# 
+
+# 
 
 # 
 
