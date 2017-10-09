@@ -2,28 +2,6 @@
 
 By Siegfried Sassoon
 
-### 
-
-### To Robert Ross
-
-Dans la trêve desolée de cette matinée, ces hommes  
-qui avaient été tenaillés par la fatigue, fouettés par  
-la pluie, bouleversés par toute une nuit de tonnerre,  
-ces rescapés des volcans et de l'inondation entrevoyaient  
-à quel point la guerre, aussi hideuse au moral  
-qu'au physique, non seulement viole le bon sens, avilit  
-les grandes idées, commande tous les crimes– mais ils  
-se rappelaient combien elle avait développé en eux et  
-autour d'eux tous les mauvais instincts sans en excepter  
-un seul; la méchanceté jusqu'au sadisme,  
-l'égoisme jusqu'à la férocité, le besoin de jouir jusqu'à la folie.
-
-HENRI BARBUSSE. \(Le Feu.\)
-
-# 
-
-# Introduction
-
 ### Sassoon the Man
 
 In appearance he is tall, big-boned, loosely built. He is clean-shaven, pale or with a flush; has a heavy jaw, wide mouth with the upper lip slightly protruding and the curve of it very pronounced like that of a shrivelled leaf \(as I have noticed is common in many poets\). His nose is aquiline, the nostrils being wide and heavily arched. This characteristic and the fullness, depth and heat of his dark eyes give him the air of a sullen falcon. He speaks slowly, enunciating the words as if they pained him, in a voice that has something of the troubled thickness apparent in the voices of those who emerge from a deep grief. As he speaks, his large hands, roughened by trench toil and by riding, wander aimlessly until some emotion grips him when the knuckles harden and he clutches at his knees or at the edge of the table. And all the while he will be breathing hard like a man who has swum a distance. When he reads his poems he chants and one would think that he communed with himself save that, at the pauses, he shoots a powerful glance at the listener. Between the poems he is still but moves his lips.... He likes best to speak of hunting \(he will shout of it!\), of open air mornings when the gorse alone flames brighter than the sky, of country quiet, of his mother,[^1] of poetry – usually Shelley, Masefield and Thomas Hardy – and last and chiefly – but always with a rapid, tumbling enunciation and a much-irked desperate air filled with pain – of soldiers. For the incubus of war is on him so that his days are shot with anguish and his nights with horror.
