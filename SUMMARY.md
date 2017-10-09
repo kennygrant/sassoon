@@ -1,7 +1,5 @@
 # Summary
 
-* [Title](title.md)
-* [Dedication](dedication.md)
 * [Introduction](README.md)
 * [Prelude](prelude.md)
 * [Counter-Attack](counter-attack.md)
@@ -42,4 +40,6 @@
 * [The Dream](the-dream.md)
 * [In Barracks](in-barracks.md)
 * [Together](together.md)
+
+
 
