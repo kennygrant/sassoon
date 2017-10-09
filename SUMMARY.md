@@ -17,7 +17,7 @@
 * [The General](the-general.md)
 * [Lamentations](lamentations.md)
 * [Does it matter?](does-it-matter.md)
-* [Fight to the finish](fight-to-the-finish.md)
+* [Fight to a finish](fight-to-the-finish.md)
 * [Editorial Impressions](editorial-impressions.md)
 * [Suicide in the trenches](suicide-in-the-trenches.md)
 * [Glory of women](glory-of-women.md)
