@@ -1,32 +1,10 @@
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# Counter-Attack
-
-### and other poems
+# Counter-Attack & other poems
 
 By Siegfried Sassoon
 
-# 
+### 
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# To Robert Ross
+### To Robert Ross
 
 Dans la trêve desolée de cette matinée, ces hommes  
 qui avaient été tenaillés par la fatigue, fouettés par  
@@ -41,14 +19,6 @@ un seul; la méchanceté jusqu'au sadisme,
 l'égoisme jusqu'à la férocité, le besoin de jouir jusqu'à la folie.
 
 HENRI BARBUSSE. \(Le Feu.\)
-
-# 
-
-# 
-
-# 
-
-# 
 
 # 
 
