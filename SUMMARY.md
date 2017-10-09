@@ -1,7 +1,9 @@
 # Summary
 
+* [Title](title.md)
+* [Dedication](dedication.md)
 * [Introduction](README.md)
-* [Prelude](chapter1.md)
+* [Prelude](prelude.md)
 * [Counter-Attack](counter-attack.md)
 * [The Rear-Guard](the-rear-guard.md)
 * [Wirers](wirers.md)
