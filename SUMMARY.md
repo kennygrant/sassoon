@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [A Soldier's Declaration](a-soldiers-declaration.md)
+* [The Humbled Heart](the-humbled-heart.md)
 * [Prelude](prelude.md)
 * [Counter-Attack](counter-attack.md)
 * [The Rear-Guard](the-rear-guard.md)
@@ -9,7 +11,7 @@
 * [Dreamers](dreamers.md)
 * [How to die](how-to-die.md)
 * [The Effect](the-effect.md)
-* [Twelve Months After](twelve-months-after.md)
+* [A Soldier's Declaration](a-soldiers-declaration.md)
 * [The Fathers](the-fathers.md)
 * [Base Details](base-details.md)
 * [The General](the-general.md)
@@ -40,6 +42,5 @@
 * [The Dream](the-dream.md)
 * [In Barracks](in-barracks.md)
 * [Together](together.md)
-
-
+* [Conscripts](conscripts.md)
 
