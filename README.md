@@ -1,6 +1,4 @@
-# Counter-Attack & other poems
+# War Poems
 
 By Siegfried Sassoon
-
-
 
