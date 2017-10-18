@@ -1,4 +1,4 @@
-# Editorial Impressions  
+# Editorial Impression 
 
 He seemed so certain "all was going well,"  
 As he discussed the glorious time he'd had  

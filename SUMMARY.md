@@ -1,30 +1,28 @@
 # Summary
 
 * [Introduction](README.md)
-
 * [Absolution](absolution.md)
-
-* [A Letter Home](https://www.gitbook.com/book/kennygrant/sassoon/edit#)
-
-* [A Soldier's Declaration](https://www.gitbook.com/book/kennygrant/sassoon/edit#)
-
+* [A Letter Home](a-letter-home.md)
+* [The Hero](the-hero.md)
+* [The Poet as Hero](the-poet-as-hero.md)
+* [A Soldier's Declaration](a-soldiers-declaration.md)
 * [The General](the-general.md)
-
-* [The Humbled Heart](the-humbled-heart.md)
-* [Prelude](prelude.md)
+* [Attack](attack.md)
 * [Counter-Attack](counter-attack.md)
 * [The Rear-Guard](the-rear-guard.md)
 * [Wirers](wirers.md)
-* [Attack](attack.md)
+* [The Humbled Heart](the-humbled-heart.md)
+* [Prelude: The Troops](prelude.md)
 * [Dreamers](dreamers.md)
 * [How to die](how-to-die.md)
 * [The Effect](the-effect.md)
 * [A Soldier's Declaration](a-soldiers-declaration.md)
 * [The Fathers](the-fathers.md)
 * [Lamentations](lamentations.md)
+* [Suicide in the trenches](suicide-in-the-trenches.md)
 * [Does it matter?](does-it-matter.md)
 * [Fight to a finish](fight-to-the-finish.md)
-* [Editorial Impressions](editorial-impressions.md)
+* [Editorial Impression](editorial-impressions.md)
 * [Glory of women](glory-of-women.md)
 * [Their frailty](their-frailty.md)
 * [The Hawthorn Tree](the-hawthorn-tree.md)
@@ -48,6 +46,4 @@
 * [Conscripts](conscripts.md)
 * [Together](together.md)
 * [Survivors](survivors.md)
-
-
-
+* [Everyone Sang](everyone-sang.md)
