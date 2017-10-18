@@ -7,12 +7,12 @@ As a young man in 1914, Siegfried Sassoon signed up to the. His early poetry abo
 > We are the happy legion, for we know  
 > Time’s but a golden wind that shakes the grass.
 
-By the time Sassoon wrote The General in 1918, his view of the war had soured, bitter about the loss of life and indifference of those at home to the suffering at the front, his poems took on a darker tone, as in this excerpt from Suicide. 
+By the time Sassoon wrote The General in 1918, his view of the war had soured, bitter about the loss of life and indifference of those at home to the suffering at the front, his poems took on a darker tone, as in this excerpt from Suicide.
 
 > You smug-faced crowds with kindling eye  
 > Who cheer when soldier lads march by,  
 > Sneak home and pray you'll never know  
 > The hell where youth and laughter go.
 
-
+In June 1917, while at Craiglockhart, Sassoon wrote an extraordinary denunciation of the war. This statement, _A Soldiers Declaration_, was read aloud in parliament and printed in _The Times_. Such was the anger at the denunciation of the war the editor's windows were smashed.  
 
