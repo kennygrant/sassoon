@@ -1,7 +1,7 @@
 # The Hero
 
-"Jack fell as he'd have wished," the Mother said,
-And folded up the letter that she'd read.
+"Jack fell as he'd have wished," the Mother said,  
+And folded up the letter that she'd read.  
 "The Colonel writes so nicely." Something broke
 In the tired voice that quavered to a choke.
 She half looked up. "We mothers are so proud

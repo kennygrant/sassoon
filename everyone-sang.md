@@ -1,5 +1,6 @@
-Everyone Sang
-April, 1919.
+# Everyone Sang
+
+###### April, 1919.
 
 Everyone suddenly burst out singing;
 And I was filled with such delight
