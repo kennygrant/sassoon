@@ -47,3 +47,4 @@
 * [Together](together.md)
 * [Survivors](survivors.md)
 * [Everyone Sang](everyone-sang.md)
+* [Colophon](colophon.md)
