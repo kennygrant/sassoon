@@ -1,6 +1,6 @@
 # Introduction
 
-As a wealthy young man in 1914, Siegfried Sassoon signed up to the Royal Welch Fusiliers, flush with romantic notions and puffed up with pride and what Wilfred Owen later called "that old lie" - _Dulce et decorum est, pro patria mori_. Prior to the war he had mostly written about fox hunting, cricket and romance - the pursuits of a young gentleman at leisure, and his early poetry about war is suffused with romantic enthusiasm, but gradually a bitter pessimism and rage seeped in to the poems as measure by measure he was exposed to the futility and cruelty of the war. In his early poem Absolution, there is no hint of the horrors to come, but instead a happy acceptance of necessary sacrifice:
+As a wealthy young man in 1914, Siegfried Sassoon signed up to the Sussex Yeomanry, and then the Royal Welch Fusiliers – flush with romantic notions and puffed up with pride and what Wilfred Owen later called "that old lie" - _Dulce et decorum est, pro patria mori_. Prior to the war he had mostly written about fox hunting, cricket and romance - the pursuits of a young gentleman at leisure, and his early poetry about war is suffused with romantic enthusiasm, however gradually a bitter pessimism and rage seeped in to the poems as measure by measure he was exposed to the futility and cruelty of the war. In his early poem Absolution, there is no hint of the horrors to come, but instead a happy acceptance of necessary sacrifice by 'the happy legion':
 
 Horror of wounds and anger at the foe,  
 And loss of things desired; all these must pass.  

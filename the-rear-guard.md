@@ -1,5 +1,4 @@
 # The Rear-Guard  
-\(Hindenburg Line, April 1917.\)  
   
 Groping along the tunnel, step by step,  
 He winked his prying torch with patching glare  
@@ -29,3 +28,5 @@ Who hear the boom of shells in muffled sound.
 At last, with sweat of horror in his hair,  
 He climbed through darkness to the twilight air,  
 Unloading hell behind him step by step.  
+
+\(Hindenburg Line, April 1917.\)  
