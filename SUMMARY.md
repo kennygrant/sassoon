@@ -16,7 +16,6 @@
 * [Dreamers](dreamers.md)
 * [How to die](how-to-die.md)
 * [The Effect](the-effect.md)
-* [A Soldier's Declaration](a-soldiers-declaration.md)
 * [The Fathers](the-fathers.md)
 * [Lamentations](lamentations.md)
 * [Suicide in the trenches](suicide-in-the-trenches.md)
