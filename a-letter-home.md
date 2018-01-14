@@ -50,7 +50,7 @@ Soldier David dressed in green,
 Standing in a wood that swings  
 To the madrigal he sings.  
 He's come back, all mirth and glory,  
-Like the prince in a fairy tory.  
+Like the prince in a fairy story.  
 Winter called him far away;  
 Blossoms bring him home with May.
 
@@ -61,7 +61,7 @@ That you found him decked in blue
 Striding up through morning-land  
 With a cloud on either hand.  
 Out in Wales, you'll say, he marches  
-Arm-in-arm with aoks and larches;  
+Arm-in-arm with oaks and larches;  
 Hides all night in hilly nooks,  
 Laughs at dawn in tumbling brooks.  
 Yet, it's certain, here he teaches  
