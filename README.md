@@ -1,6 +1,6 @@
 # Introduction
 
-As a wealthy young man in 1914, Siegfried Sassoon signed up to the Royal Welch Fusiliers, flush with romantic notions and puffed up with pride and what Wilfred Owen later called "that old lie" - _Dulce et decorum est, pro patria mori_. Prior to the war he had mostly written about fox hunting, cricket and romance - the pursuits of a young gentleman at leisure, and his early poetry about the war is flush with romantic enthusiasm, but gradually a bitter pessimism and rage creeps in to his later poetry as, measure by measure, he was exposed to the futility and cruelty of the war. In his early poem Absolution, there is no hint of the horrors to come, but instead a happy acceptance of necessary sacrifice:
+As a wealthy young man in 1914, Siegfried Sassoon signed up to the Royal Welch Fusiliers, flush with romantic notions and puffed up with pride and what Wilfred Owen later called "that old lie" - _Dulce et decorum est, pro patria mori_. Prior to the war he had mostly written about fox hunting, cricket and romance - the pursuits of a young gentleman at leisure, and his early poetry about war is suffused with romantic enthusiasm, but gradually a bitter pessimism and rage seeped in to the poems as measure by measure he was exposed to the futility and cruelty of the war. In his early poem Absolution, there is no hint of the horrors to come, but instead a happy acceptance of necessary sacrifice:
 
 > Horror of wounds and anger at the foe,  
 > And loss of things desired; all these must pass.  
@@ -14,7 +14,7 @@ By the time Sassoon wrote The General in 1918, his view of the war had soured; b
 > Sneak home and pray you'll never know  
 > The hell where youth and laughter go.
 
-Sassoon received a Military Cross for recovering the wounded under enemy fire, and was wounded himself in action. In June 1917, while on convalescent leave and after refusing to return to active duty, Sassoon wrote an extraordinary denunciation of the war. This statement, _A Soldiers Declaration_, was read aloud in parliament by Mr Lees Smith, a prominent pacifist, and printed in _The Times_. Such was the anger at his plain denunciation of the war, the editor's windows were smashed. 
+During the war Sassoon received a Military Cross for recovering wounded comrades under enemy fire, and was injured himself in action. Then in June 1917, while on convalescent leave and after refusing to return to active duty, Sassoon wrote an extraordinary denunciation of the war. This statement, _A Soldiers Declaration_, was read aloud in parliament by Mr Lees Smith, a prominent pacifist, and printed in _The Times_. Such was the anger at his plain and bold denunciation of the war, the editor's windows were smashed. 
 
 From Hansard, on the House of Commons debate 30th July 1917:
 
@@ -22,12 +22,12 @@ From Hansard, on the House of Commons debate 30th July 1917:
 
 From [A Solider's Declaration](a-soldiers-declaration.md):
 
->I have seen and endured the sufferings of the troops, and I can no longer be a party to prolonging those sufferings for ends which I believe to be evil and unjust.
+> I have seen and endured the sufferings of the troops, and I can no longer be a party to prolonging those sufferings for ends which I believe to be evil and unjust.
 
-Sassoon also encouraged other young poets to write, including Wilfred Owen, with whom he had a close relationship, which started when both were receiving treatment at Craiglockhart War Hopsital in Edinburgh in 1917. Owen was deeply influenced by Sassoon, whom he viewed with reverence and respect, and submitted some early drafts to him of his most powerful poems, such as _Anthem for Doomed Youth_ - a copy of which is kept in the Imperial War Museum annotated with Sassoon's suggestions. The poems of Owen owed much to Sassoon's influence and mentorship, and Owen described his relationship to Sassoon in a letter of 1918: 
+Sassoon also encouraged other young poets to write, including Wilfred Owen, with whom he had a close relationship, which started when both were receiving treatment at Craiglockhart War Hospital in Edinburgh in 1917. Owen was deeply influenced by Sassoon, whom he viewed with reverence and respect, and submitted some early drafts to him of his most powerful poems, such as _Anthem for Doomed Youth_ - a copy of which is kept in the Imperial War Museum annotated with Sassoon's suggestions. The poems of Owen owed much to Sassoon's influence and mentorship, and Owen described his relationship to Sassoon in a letter of 1918: 
 
 > “You have fixed my Life – however short. You did not light me, I was always a mad comet, but you have fixed me. I spun round you like a satellite for a month, but I shall swing out soon, a dark star in the orbit where you will blaze”.
 
-Sassoon placed great emphasis on realism in poetry - writing from experience - in his later work he defied the conventions of literary poetry and wrote poems like The General, which undermine entirely the happy sacrifice for the greater good portrayed in his early work such as Absolution. After meeting Owen at Craiglockart he returned to active service in France, but was wounded by friendly fire, and returned to England to see out the end of the war. 
+Sassoon placed great emphasis on realism in poetry - writing from experience - in his later work he defied the conventions of literary poetry and wrote poems like The General, which undermine entirely the happy sacrifice for the greater good portrayed in his early work such as Absolution. After meeting Owen at Craiglockhart he returned to active service in France, but was wounded by friendly fire, and returned to England to see out the end of the war. 
 
-After the war Sassoon became involved in politics and the pacifist movement, and wrote a trio of autobiographical novels desribing his wartime experiences, but he also did much to promote the poetry of Wilfred Owen, who died tragically just before the Armistice was declared.
+After the war Sassoon became involved in politics and the pacifist movement, and wrote a trio of autobiographical novels describing his wartime experiences, but he also did much to promote the poetry of Wilfred Owen, who died tragically just before the Armistice was declared.
